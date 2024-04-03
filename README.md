@@ -25,7 +25,7 @@
   
 ![TheM3x's github stats](https://github-readme-stats.vercel.app/api?username=them3x&show_icons=true&theme=radical)
 
-<a href="https://t.me/M3X00" target="_blank">
+<a href="https://t.me/imm3x" target="_blank">
                         <img src="https://img.shields.io/badge/-Telegram-060606?style=flat&labelColor=0D0D0D&logo=Telegram&Color=white" alt="Telegram icon" />
 <a href="mailto:messiaseric@riseup.net" target="_blank">
                         <img src="https://img.shields.io/badge/-Email-060606?style=flat&labelColor=0D0D0D&logo=riseup&Color=white" alt="Mail icon" />
