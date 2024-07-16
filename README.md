@@ -11,7 +11,7 @@
 
  
 - Consultor / Analista em segurança da informação.<br> 
-//- Progamo em PHP, SHELL, Python
+- Progamo em PHP, SHELL, Python
 - GNU/Debian <br>
 
 <h6>
